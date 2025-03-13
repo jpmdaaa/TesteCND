@@ -1,0 +1,32 @@
+[
+  {
+    "id": 87101,
+    "title": "Terminator Genisys",
+    "release_date": "2015-06-23",
+    "vote_average": 5.937
+  },
+  {
+    "id": 307663,
+    "title": "Vice",
+    "release_date": "2015-01-16",
+    "vote_average": 4.338
+  },
+  {
+    "id": 653346,
+    "title": "Kingdom of the Planet of the Apes",
+    "release_date": "2024-05-08",
+    "vote_average": 7.085
+  },
+  {
+    "id": 1196470,
+    "title": "Survive",
+    "release_date": "2024-06-19",
+    "vote_average": 5.9
+  },
+  {
+    "id": 726139,
+    "title": "Project Silence",
+    "release_date": "2024-07-11",
+    "vote_average": 7.0
+  }
+]
